@@ -1,0 +1,3 @@
+[submodule "submodule_example"]
+	path = submodule_example
+	url = https://github.com/wolf-dominion/submodule_example.git
